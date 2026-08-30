@@ -42,7 +42,7 @@
 浏览器已安装 Tampermonkey 后，直接点击下面的链接（仓库发布后即为本文件的 raw 链接），会弹出「安装脚本」页面，点「安装」即可：
 
 ```
-https://raw.githubusercontent.com/meravChen/pkutreehole-general-edu-course-sorter/main/pku_tsk_filter.user.js
+https://raw.githubusercontent.com/meravChen/pku-elective-general-edu-course-sorter/main/pku_tsk_filter.user.js
 ```
 
 ### 方式二：手动粘贴
